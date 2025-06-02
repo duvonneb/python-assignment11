@@ -1,0 +1,5 @@
+1. Static visualizations show data in a fixed way, making them easy to share and understand. But they don’t let you interact with the data or change it. Interactive visualizations, on the other hand, let you explore the data by zooming in, filtering, and showing tooltips. This helps you get deeper insights based on what you do.
+
+2. Dashboards put together important metrics and visualizations into one place, so you can see real-time data and trends. They help you spot problems and make decisions based on data, without having to look through lots of raw data or old reports.
+
+3. Interactive tools like Plotly and Dash make it easier to share data with people in the workplace. They turn complex data into fun visual experiences that are easy to understand. This makes it easier to share findings, work together, and take action based on data, whether you’re a tech expert or not.
